@@ -1,0 +1,23 @@
+header{
+font-family: Georgia, 'Times New Roman', Times, serif;
+color:white;
+background-color: rgb(206, 14, 14);
+}
+img{
+    height:300px;
+    width: 300px;
+}
+body{
+background-color: brown;
+}
+img{
+    height: 200px;
+    width: 100%;
+}
+footer{
+color:coral;
+background-color: black;
+}
+p{
+    color: black;
+}
